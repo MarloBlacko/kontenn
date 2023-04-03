@@ -1,0 +1,22 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+sitemap : https://ojs.sociologia-alas.org/public/sitemap.xml
